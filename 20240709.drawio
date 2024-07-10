@@ -1,0 +1,337 @@
+<mxfile host="app.diagrams.net" modified="2024-07-10T07:40:02.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="t4ckl-b69usg6vvzVjrk" version="24.6.4" type="device">
+  <diagram name="페이지-1" id="7OhCg_U6vWCN_BbWhZ-c">
+    <mxGraphModel dx="3341" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="woH3hnQQlnATn0B95V8R-1" value="" style="whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="30" y="40" width="590" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-2" value="원데이 투어, 타이틀" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="60" y="50" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-3" value="특가여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-4" value="국내여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-5" value="해외여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-6" value="패키지여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-7" value="회사소개" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-9" value="국내" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-12" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="200" width="520" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-37" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="60" y="210" width="520" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-23" value="" style="group" parent="woH3hnQQlnATn0B95V8R-37" vertex="1" connectable="0">
+          <mxGeometry width="110" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-23" vertex="1">
+          <mxGeometry width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-21" value="세화 해변" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="woH3hnQQlnATn0B95V8R-23" vertex="1">
+          <mxGeometry y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-22" value="제주" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="woH3hnQQlnATn0B95V8R-23" vertex="1">
+          <mxGeometry y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-25" value="" style="group" parent="woH3hnQQlnATn0B95V8R-37" vertex="1" connectable="0">
+          <mxGeometry x="130" width="110" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-25" vertex="1">
+          <mxGeometry width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-27" value="백록담" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="woH3hnQQlnATn0B95V8R-25" vertex="1">
+          <mxGeometry y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-28" value="제주" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="woH3hnQQlnATn0B95V8R-25" vertex="1">
+          <mxGeometry y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-29" value="" style="group" parent="woH3hnQQlnATn0B95V8R-37" vertex="1" connectable="0">
+          <mxGeometry x="270" width="110" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-29" vertex="1">
+          <mxGeometry width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-31" value="광주광역시청" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="woH3hnQQlnATn0B95V8R-29" vertex="1">
+          <mxGeometry y="160" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-32" value="광주" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="woH3hnQQlnATn0B95V8R-29" vertex="1">
+          <mxGeometry y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-33" value="" style="group" parent="woH3hnQQlnATn0B95V8R-37" vertex="1" connectable="0">
+          <mxGeometry x="410" width="110" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-33" vertex="1">
+          <mxGeometry width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-35" value="화성 전곡항" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="woH3hnQQlnATn0B95V8R-33" vertex="1">
+          <mxGeometry y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-36" value="경기" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="woH3hnQQlnATn0B95V8R-33" vertex="1">
+          <mxGeometry y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-55" value="해외" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-56" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="460" width="520" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-57" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="60" y="470" width="520" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-58" value="" style="group" parent="woH3hnQQlnATn0B95V8R-57" vertex="1" connectable="0">
+          <mxGeometry width="110" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-58" vertex="1">
+          <mxGeometry width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-60" value="두오모 성당" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="woH3hnQQlnATn0B95V8R-58" vertex="1">
+          <mxGeometry y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-61" value="이탈리아" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="woH3hnQQlnATn0B95V8R-58" vertex="1">
+          <mxGeometry y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-62" value="" style="group" parent="woH3hnQQlnATn0B95V8R-57" vertex="1" connectable="0">
+          <mxGeometry x="130" width="110" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-62" vertex="1">
+          <mxGeometry width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-64" value="도쿄 타워" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="woH3hnQQlnATn0B95V8R-62" vertex="1">
+          <mxGeometry y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-65" value="아시아" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="woH3hnQQlnATn0B95V8R-62" vertex="1">
+          <mxGeometry y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-66" value="" style="group" parent="woH3hnQQlnATn0B95V8R-57" vertex="1" connectable="0">
+          <mxGeometry x="270" width="110" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-66" vertex="1">
+          <mxGeometry width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-68" value="장가계" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="woH3hnQQlnATn0B95V8R-66" vertex="1">
+          <mxGeometry y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-69" value="중국" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="woH3hnQQlnATn0B95V8R-66" vertex="1">
+          <mxGeometry y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-70" value="" style="group" parent="woH3hnQQlnATn0B95V8R-57" vertex="1" connectable="0">
+          <mxGeometry x="410" width="110" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-70" vertex="1">
+          <mxGeometry width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-72" value="진리의성전" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="woH3hnQQlnATn0B95V8R-70" vertex="1">
+          <mxGeometry y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-73" value="태국" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="woH3hnQQlnATn0B95V8R-70" vertex="1">
+          <mxGeometry y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-74" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;원데이 투어&lt;/h1&gt;&lt;p&gt;대한민국 광주광역시 서구&lt;/p&gt;&lt;p&gt;CopyRight OneDayTour&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="230" y="810" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-76" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="780" width="520" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-77" value="" style="whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="670" y="40" width="590" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-79" value="서 론" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="60" width="550" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-80" value="본 론" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="691" y="290" width="550" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-81" value="결 론" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="691" y="770" width="550" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-131" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-660" y="40" width="590" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-82" value="" style="whiteSpace=wrap;html=1;fillColor=default;" parent="woH3hnQQlnATn0B95V8R-131" vertex="1">
+          <mxGeometry width="590" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-83" value="원데이 투어, 타이틀" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" parent="woH3hnQQlnATn0B95V8R-131" vertex="1">
+          <mxGeometry x="30" y="10" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-84" value="특가여행" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="woH3hnQQlnATn0B95V8R-131" vertex="1">
+          <mxGeometry x="30" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-85" value="국내여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-131" vertex="1">
+          <mxGeometry x="140" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-86" value="해외여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-131" vertex="1">
+          <mxGeometry x="260" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-87" value="패키지여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-131" vertex="1">
+          <mxGeometry x="370" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-88" value="회사소개" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-131" vertex="1">
+          <mxGeometry x="470" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-127" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;원데이 투어&lt;/h1&gt;&lt;p&gt;대한민국 광주광역시 서구&lt;/p&gt;&lt;p&gt;CopyRight OneDayTour&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="woH3hnQQlnATn0B95V8R-131" vertex="1">
+          <mxGeometry x="200" y="770" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-128" value="" style="line;strokeWidth=2;html=1;" parent="woH3hnQQlnATn0B95V8R-131" vertex="1">
+          <mxGeometry x="30" y="740" width="520" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-129" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;특가여행&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;준비중&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="woH3hnQQlnATn0B95V8R-131" vertex="1">
+          <mxGeometry x="30" y="170" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-132" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1340" y="40" width="590" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-133" value="" style="whiteSpace=wrap;html=1;fillColor=default;" parent="woH3hnQQlnATn0B95V8R-132" vertex="1">
+          <mxGeometry width="590" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-134" value="원데이 투어, 타이틀" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" parent="woH3hnQQlnATn0B95V8R-132" vertex="1">
+          <mxGeometry x="30" y="10" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-135" value="특가여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-132" vertex="1">
+          <mxGeometry x="30" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-136" value="국내여행" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="woH3hnQQlnATn0B95V8R-132" vertex="1">
+          <mxGeometry x="140" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-137" value="해외여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-132" vertex="1">
+          <mxGeometry x="260" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-138" value="패키지여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-132" vertex="1">
+          <mxGeometry x="370" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-139" value="회사소개" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-132" vertex="1">
+          <mxGeometry x="470" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-140" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;원데이 투어&lt;/h1&gt;&lt;p&gt;대한민국 광주광역시 서구&lt;/p&gt;&lt;p&gt;CopyRight OneDayTour&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="woH3hnQQlnATn0B95V8R-132" vertex="1">
+          <mxGeometry x="200" y="770" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-141" value="" style="line;strokeWidth=2;html=1;" parent="woH3hnQQlnATn0B95V8R-132" vertex="1">
+          <mxGeometry x="30" y="740" width="520" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-142" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;국내여행&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;준비중&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="woH3hnQQlnATn0B95V8R-132" vertex="1">
+          <mxGeometry x="30" y="170" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-143" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-660" y="1040" width="590" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-144" value="" style="whiteSpace=wrap;html=1;fillColor=default;" parent="woH3hnQQlnATn0B95V8R-143" vertex="1">
+          <mxGeometry width="590" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-145" value="원데이 투어, 타이틀" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" parent="woH3hnQQlnATn0B95V8R-143" vertex="1">
+          <mxGeometry x="30" y="10" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-146" value="특가여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-143" vertex="1">
+          <mxGeometry x="30" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-147" value="국내여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-143" vertex="1">
+          <mxGeometry x="140" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-148" value="해외여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-143" vertex="1">
+          <mxGeometry x="260" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-149" value="패키지여행" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="woH3hnQQlnATn0B95V8R-143" vertex="1">
+          <mxGeometry x="370" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-150" value="회사소개" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-143" vertex="1">
+          <mxGeometry x="470" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-151" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;원데이 투어&lt;/h1&gt;&lt;p&gt;대한민국 광주광역시 서구&lt;/p&gt;&lt;p&gt;CopyRight OneDayTour&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="woH3hnQQlnATn0B95V8R-143" vertex="1">
+          <mxGeometry x="200" y="770" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-152" value="" style="line;strokeWidth=2;html=1;" parent="woH3hnQQlnATn0B95V8R-143" vertex="1">
+          <mxGeometry x="30" y="740" width="520" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-153" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;패키지여행&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;준비중&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="woH3hnQQlnATn0B95V8R-143" vertex="1">
+          <mxGeometry x="30" y="170" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-154" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1340" y="1040" width="590" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-155" value="" style="whiteSpace=wrap;html=1;fillColor=default;" parent="woH3hnQQlnATn0B95V8R-154" vertex="1">
+          <mxGeometry width="590" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-156" value="원데이 투어, 타이틀" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" parent="woH3hnQQlnATn0B95V8R-154" vertex="1">
+          <mxGeometry x="30" y="10" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-157" value="특가여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-154" vertex="1">
+          <mxGeometry x="30" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-158" value="국내여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-154" vertex="1">
+          <mxGeometry x="140" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-159" value="해외여행" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="woH3hnQQlnATn0B95V8R-154" vertex="1">
+          <mxGeometry x="260" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-160" value="패키지여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-154" vertex="1">
+          <mxGeometry x="370" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-161" value="회사소개" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-154" vertex="1">
+          <mxGeometry x="470" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-162" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;원데이 투어&lt;/h1&gt;&lt;p&gt;대한민국 광주광역시 서구&lt;/p&gt;&lt;p&gt;CopyRight OneDayTour&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="woH3hnQQlnATn0B95V8R-154" vertex="1">
+          <mxGeometry x="200" y="770" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-163" value="" style="line;strokeWidth=2;html=1;" parent="woH3hnQQlnATn0B95V8R-154" vertex="1">
+          <mxGeometry x="30" y="740" width="520" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-164" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;해외여행&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;준비중&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="woH3hnQQlnATn0B95V8R-154" vertex="1">
+          <mxGeometry x="30" y="170" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-165" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="30" y="1050" width="590" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-166" value="" style="whiteSpace=wrap;html=1;fillColor=default;" parent="woH3hnQQlnATn0B95V8R-165" vertex="1">
+          <mxGeometry width="590" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-167" value="원데이 투어, 타이틀" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" parent="woH3hnQQlnATn0B95V8R-165" vertex="1">
+          <mxGeometry x="30" y="10" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-168" value="특가여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-165" vertex="1">
+          <mxGeometry x="30" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-169" value="국내여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-165" vertex="1">
+          <mxGeometry x="140" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-170" value="해외여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-165" vertex="1">
+          <mxGeometry x="260" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-171" value="패키지여행" style="rounded=0;whiteSpace=wrap;html=1;" parent="woH3hnQQlnATn0B95V8R-165" vertex="1">
+          <mxGeometry x="370" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-172" value="회사소개" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="woH3hnQQlnATn0B95V8R-165" vertex="1">
+          <mxGeometry x="470" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-173" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;원데이 투어&lt;/h1&gt;&lt;p&gt;대한민국 광주광역시 서구&lt;/p&gt;&lt;p&gt;CopyRight OneDayTour&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="woH3hnQQlnATn0B95V8R-165" vertex="1">
+          <mxGeometry x="200" y="770" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-174" value="" style="line;strokeWidth=2;html=1;" parent="woH3hnQQlnATn0B95V8R-165" vertex="1">
+          <mxGeometry x="30" y="740" width="520" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="woH3hnQQlnATn0B95V8R-175" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;회사여행&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;준비중&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="woH3hnQQlnATn0B95V8R-165" vertex="1">
+          <mxGeometry x="30" y="170" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KiM3JA2g0fplzx1Vi_GM-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="30" width="890" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="KiM3JA2g0fplzx1Vi_GM-2" value="간단한 자기 소개서 작성" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="220" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KiM3JA2g0fplzx1Vi_GM-3" value="html문서로 만들기" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="340" width="230" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
